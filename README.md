@@ -1,4 +1,4 @@
-
+VIDEO LINK::https://drive.google.com/file/d/1BfqfjeLWLSeUdv9g_TEIj7wBrw37t6tl/view?usp=sharing
 # 📝 Blog Details App
 
 A full-stack web application to **create, read, update, and delete** blog posts. Built with **React.js**, **Node.js**, **Express**, and **MongoDB**, this project showcases essential CRUD operations with clean UI and MongoDB integration.
